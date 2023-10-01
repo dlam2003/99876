@@ -1,0 +1,12 @@
+F:\visualS\bai01WF\Bai05NC\bin\Debug\Bai05NC.exe.config
+F:\visualS\bai01WF\Bai05NC\bin\Debug\Bai05NC.exe
+F:\visualS\bai01WF\Bai05NC\bin\Debug\Bai05NC.pdb
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.csproj.AssemblyReference.cache
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.csproj.SuggestedBindingRedirects.cache
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.frmListSv.resources
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.Properties.Resources.resources
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.csproj.GenerateResource.cache
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.csproj.CoreCompileInputs.cache
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.exe
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.pdb
+F:\visualS\bai01WF\Bai05NC\obj\Debug\Bai05NC.splass.resources

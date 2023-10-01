@@ -1,0 +1,12 @@
+F:\visualS\bai01WF\start\bin\Debug\start.exe.config
+F:\visualS\bai01WF\start\bin\Debug\start.exe
+F:\visualS\bai01WF\start\bin\Debug\start.pdb
+F:\visualS\bai01WF\start\obj\Debug\start.csproj.AssemblyReference.cache
+F:\visualS\bai01WF\start\obj\Debug\start.csproj.SuggestedBindingRedirects.cache
+F:\visualS\bai01WF\start\obj\Debug\start.Form1.resources
+F:\visualS\bai01WF\start\obj\Debug\start.Properties.Resources.resources
+F:\visualS\bai01WF\start\obj\Debug\start.csproj.GenerateResource.cache
+F:\visualS\bai01WF\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+F:\visualS\bai01WF\start\obj\Debug\start.exe
+F:\visualS\bai01WF\start\obj\Debug\start.pdb
+F:\visualS\bai01WF\start\obj\Debug\start.Form2.resources

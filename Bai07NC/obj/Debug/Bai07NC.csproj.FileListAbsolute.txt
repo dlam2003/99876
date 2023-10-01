@@ -1,0 +1,11 @@
+F:\visualS\bai01WF\Bai07NC\bin\Debug\Bai07NC.exe.config
+F:\visualS\bai01WF\Bai07NC\bin\Debug\Bai07NC.exe
+F:\visualS\bai01WF\Bai07NC\bin\Debug\Bai07NC.pdb
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.csproj.AssemblyReference.cache
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.csproj.SuggestedBindingRedirects.cache
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.Properties.Resources.resources
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.trackbar.resources
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.csproj.GenerateResource.cache
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.csproj.CoreCompileInputs.cache
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.exe
+F:\visualS\bai01WF\Bai07NC\obj\Debug\Bai07NC.pdb

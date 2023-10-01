@@ -1,0 +1,11 @@
+F:\visualS\bai01WF\Bai03NC\bin\Debug\Bai03NC.exe.config
+F:\visualS\bai01WF\Bai03NC\bin\Debug\Bai03NC.exe
+F:\visualS\bai01WF\Bai03NC\bin\Debug\Bai03NC.pdb
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.csproj.AssemblyReference.cache
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.csproj.SuggestedBindingRedirects.cache
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.Properties.Resources.resources
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.Uoc.resources
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.csproj.GenerateResource.cache
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.csproj.CoreCompileInputs.cache
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.exe
+F:\visualS\bai01WF\Bai03NC\obj\Debug\Bai03NC.pdb
