@@ -53,6 +53,7 @@ namespace Bai01
                 this.errorProvider1.Clear();
             } 
         }
+        // thằng chó hiệu ăn cứt cút mịa mày đê
 
         private void txtB_TextChanged(object sender, EventArgs e)
         {
